@@ -1,0 +1,16 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+.banner-container{
+    background-color: #193250;
+}
+.banner-column{
+    background-color: #002147;
+    /* box-shadow: 20px 20px 20px rgba(0, 33, 71, 0.8); */
+}
+/* .nav-container{
+    background-color: #002147   ; ;
+} */
+.about-container{
+    background-color: #00BDBD;
+}
