@@ -9,11 +9,25 @@ body{
     /* box-shadow: 20px 20px 20px rgba(0, 33, 71, 0.8); */
 }
 /* .nav-container{
-    background-color: #002147   ; ;
+    background-color: #193250;
 } */
 .about-container{
     background-color: #00BDBD;
 }
+.edu-container{
+    background-color: teal;
+    /* height: 150px;
+    background-image: url(https://bit.ly/3dBjhTT); */
+}
+.contract-container{
+    background-color: #474D5D;
+}
+.inner-form{
+    /* background-color: #585F73; */
+}
+/* .inner-form::placeholder {
+    color: black;
+} */
 .footer{
     background-color: #2BB3DD;
 }
@@ -25,16 +39,15 @@ body{
     font-size: 26px;
     display: inline-block;
 }
-.facebook{
+.facebook  a{
     color: #0E8CF1;
 }
-.github{
+.github a{
     color:#24292E;
 }
 .youtube{
     color: #FF0000;
 }
-
 .icon:hover{
     background-color:#E4E6E9;
 }
