@@ -19,6 +19,9 @@ body{
     /* height: 150px;
     background-image: url(https://bit.ly/3dBjhTT); */
 }
+.custom-card{
+    background-color: #337e7e;
+}
 .contract-container{
     background-color: #474D5D;
 }
